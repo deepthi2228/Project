@@ -1,5 +1,5 @@
 <h1>TaskBuddy 🚀<h1> <br><br>
-<h6>What Will You Build? 🏗️
+<h3>What Will You Build? 🏗️
 TaskBuddy is a React-based task management application that will:
 
 ✅ Add, delete, and mark tasks as complete: A dynamic task list that updates as you interact with it.
@@ -34,7 +34,7 @@ Deployment: Deploy on GitHub Pages or Netlify
 Required Tools
 Code Editor: Visual Studio Code (or your preferred editor)
 Browser: Google Chrome (or any modern browser)
-Node.js & npm: To manage dependencies and run the React application</h6>
+Node.js & npm: To manage dependencies and run the React application</h3>
 
 
 UI:
