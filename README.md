@@ -1,4 +1,4 @@
-<h1>TaskBuddy 🚀<h1><br>
+<h1>TaskBuddy 🚀<h1> <br><br>
 What Will You Build? 🏗️
 TaskBuddy is a React-based task management application that will:
 
