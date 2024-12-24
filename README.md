@@ -1,4 +1,4 @@
-TaskBuddy 🚀
+<h1>TaskBuddy 🚀<h1><br>
 What Will You Build? 🏗️
 TaskBuddy is a React-based task management application that will:
 
@@ -35,5 +35,7 @@ Required Tools
 Code Editor: Visual Studio Code (or your preferred editor)
 Browser: Google Chrome (or any modern browser)
 Node.js & npm: To manage dependencies and run the React application
+
+
 UI:
 ![Screenshot 2024-12-24 210319](https://github.com/user-attachments/assets/66fdc74a-4306-471f-a089-a05464700025)
