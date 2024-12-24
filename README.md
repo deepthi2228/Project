@@ -35,5 +35,5 @@ Required Tools
 Code Editor: Visual Studio Code (or your preferred editor)
 Browser: Google Chrome (or any modern browser)
 Node.js & npm: To manage dependencies and run the React application
-This journey will teach you not just how to code, but how to think like a developer and solve real-world problems.
-Ready to start? Let’s dive into building TaskBuddy step by step! 🌟
+UI:
+![Screenshot 2024-12-24 210319](https://github.com/user-attachments/assets/66fdc74a-4306-471f-a089-a05464700025)
