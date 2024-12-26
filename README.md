@@ -38,4 +38,5 @@ Node.js & npm: To manage dependencies and run the React application</h3>
 
 
 UI:
-![Screenshot 2024-12-24 210319](https://github.com/user-attachments/assets/66fdc74a-4306-471f-a089-a05464700025)
+![Screenshot 2024-12-26 211314](https://github.com/user-attachments/assets/3c655fd3-c5db-4a9c-811e-63985b3e791f)
+
